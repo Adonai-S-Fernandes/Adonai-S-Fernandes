@@ -44,6 +44,8 @@ Student at Tiradentes University, studying Systems Analysis and Development 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adonai-S-Fernandes&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adonai-S-Fernandes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 # 🖥️ Videos Interessantes do Youtube
 
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
